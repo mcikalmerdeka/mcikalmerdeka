@@ -38,6 +38,9 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
+  <a href="https://www.streamlit.io/" target="_blank" rel="noreferrer">
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*MpZGG5oPHVFlFDTu4b_1IA.png" alt="streamlit" width="40" height="40"/>
+  </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
