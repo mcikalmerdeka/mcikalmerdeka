@@ -8,7 +8,7 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
 
 - 👨‍💻 All of my projects are available at [Portfolio Repository](https://github.com/mcikalmerdeka/Data-Analyst-Scientist-Portofolio)
   
-- 🌱 I’m currently learning **[Natural Language Proecssing (NLP)](https://github.com/mcikalmerdeka/NLP-Learning)**
+- 🌱 I’m currently learning **[Natural Language Processing (NLP)](https://github.com/mcikalmerdeka/NLP-Learning)**
 
 - 📫 How to reach me : **[Email](mcikalmerdeka@gmail.com)** or **[LinkedIn](www.linkedin.com/in/mcikalmerdeka)**
 
