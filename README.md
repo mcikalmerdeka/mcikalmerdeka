@@ -6,7 +6,7 @@ My graduation in 2023, a pivotal year marked by significant advancements in arti
 
 In my freetime outside of working hours I enjoy exploring new data analysis tools and techniques. I also like to do photography while walking around the town, read books like novel and manga, listen to music, and sometimes play online games especially fast paced moba games like Dota 2 and Mobile Legends. These things does help me refresh my mind and make me more productive in working.
 
-- 👨‍💻 All of my projects are available at [Portfolio Repository](https://github.com/mcikalmerdeka/Data-Analyst-Scientist-Portofolio)
+- 👨‍💻 All of my projects are available at **[Portfolio Repository](https://github.com/mcikalmerdeka/Data-Analyst-Scientist-Portofolio)**
   
 - 🌱 I’m currently learning **[Natural Language Processing (NLP)](https://github.com/mcikalmerdeka/NLP-Learning)**
 
