@@ -48,7 +48,7 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
+    <img src="https://www.bespoke.xyz/wp-content/uploads/2020/03/Power-Bi-3-1024x1024.png" alt="powerbi" width="40" height="40"/>
   </a>
   <a href="https://looker.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/looker-1.svg" alt="looker" width="40" height="40"/>
