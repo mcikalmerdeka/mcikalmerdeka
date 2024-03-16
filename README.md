@@ -10,7 +10,7 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
   
 - 🌱 I’m currently learning **[Natural Language Processing (NLP)](https://github.com/mcikalmerdeka/NLP-Learning)**
 
-- 📫 How to reach me : **[Email](mcikalmerdeka@gmail.com)** or **[LinkedIn](www.linkedin.com/in/mcikalmerdeka)**
+- 📫 How to reach me : **[Email](mcikalmerdeka@gmail.com)** | **[LinkedIn](www.linkedin.com/in/mcikalmerdeka)** | **[Discord](discordapp.com/users/699071814092980264)**
 
 ## Languages | Libraries | Frameworks | Tools
 <p align="left">
