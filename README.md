@@ -10,7 +10,7 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
   
 - 🌱 I’m currently learning **[Natural Language Processing (NLP)](https://github.com/mcikalmerdeka/NLP-Learning)**
 
-- 📫 How to reach me : **[Email](mcikalmerdeka@gmail.com)** | **[LinkedIn](www.linkedin.com/in/mcikalmerdeka)** | **[Discord](www.discordapp.com/users/699071814092980264)**
+- 📫 How to reach me : **[Email](mailto:mcikalmerdeka@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/muhammad-cikal-merdeka-50a658266/)** | **[Discord](https://discordapp.com/users/699071814092980264)**
 
 ![](https://komarev.com/ghpvc/?username=mcikalmerdeka)
 
