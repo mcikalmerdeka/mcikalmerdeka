@@ -12,6 +12,8 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
 
 - 📫 How to reach me : **[Email](mcikalmerdeka@gmail.com)** | **[LinkedIn](www.linkedin.com/in/mcikalmerdeka)** | **[Discord](www.discordapp.com/users/699071814092980264)**
 
+![](https://komarev.com/ghpvc/?username=mcikalmerdeka)
+
 ## Languages | Libraries | Frameworks | Tools
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
