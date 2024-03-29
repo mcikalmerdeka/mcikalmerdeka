@@ -93,7 +93,7 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
   </a>
 
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-github-163-761603.png?f=webp&w=256" alt="GitHub" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub" width="40" height="40"/>
   </a>
   
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
