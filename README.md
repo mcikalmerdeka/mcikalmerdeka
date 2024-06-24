@@ -27,6 +27,10 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
+
+  <a href="https://www.pola.rs/" target="_blank" rel="noreferrer">
+    <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*UzNdWzdm6xKpnuckQ18pUw.png" alt="Polars" width="45" height="40"/>
+  </a>
   
   <a href="https://www.scipy.org/" target="_blank" rel="noreferrer">
     <img src="https://scipy.org/images/logo.svg" alt="scipy" width="40" height="40"/>
@@ -67,6 +71,18 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
+
+  <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer">
+      <img src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1634190631" alt="Snowflake" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.netsuite.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.cioinsight.com/wp-content/uploads/2021/05/Oracle-NetSuite-Logo-4-696x464.png" alt="Oracle NetSuite" width="40" height="40"/>
+  </a>
   
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/>
@@ -78,6 +94,10 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
   
   <a href="https://looker.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/looker-1.svg" alt="looker" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.metabase.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.worldvectorlogo.com/logos/metabase.svg" alt="Metabase" width="40" height="40"/>
   </a>
   
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
