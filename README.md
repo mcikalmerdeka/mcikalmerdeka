@@ -80,10 +80,6 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
       <img src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1634190631" alt="Snowflake" width="40" height="40"/>
   </a>
   
-  <a href="https://www.netsuite.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.cioinsight.com/wp-content/uploads/2021/05/Oracle-NetSuite-Logo-4-696x464.png" alt="Oracle NetSuite" width="40" height="40"/>
-  </a>
-  
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/>
   </a>
