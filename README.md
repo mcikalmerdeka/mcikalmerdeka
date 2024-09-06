@@ -31,6 +31,14 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
   <a href="https://www.pola.rs/" target="_blank" rel="noreferrer">
     <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*UzNdWzdm6xKpnuckQ18pUw.png" alt="Polars" width="45" height="40"/>
   </a>
+
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
+
+  <a href="https://keras.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/>
+  </a>
   
   <a href="https://www.scipy.org/" target="_blank" rel="noreferrer">
     <img src="https://scipy.org/images/logo.svg" alt="scipy" width="40" height="40"/>
