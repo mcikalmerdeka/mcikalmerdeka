@@ -43,6 +43,10 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
   <a href="https://www.scipy.org/" target="_blank" rel="noreferrer">
     <img src="https://scipy.org/images/logo.svg" alt="scipy" width="40" height="40"/>
   </a>
+
+  <a href="https://www.statsmodels.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" alt="statsmodels" width="40" height="40"/>
+  </a>
   
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/matplotlib-1.svg" alt="matplotlib" width="40" height="40"/>
