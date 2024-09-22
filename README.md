@@ -135,4 +135,6 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
 
 ## 📊 Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mcikalmerdeka&theme=dark)](https://git.io/streak-stats)
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=mcikalmerdeka&theme=dark" alt="GitHub Streak" />
+</div>
