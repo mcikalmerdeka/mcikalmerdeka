@@ -107,6 +107,18 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
   <a href="https://www.metabase.com/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/metabase.svg" alt="Metabase" width="40" height="40"/>
   </a>
+
+  <a href="https://preset.io/" target="_blank" rel="noreferrer">
+      <img src="https://avatars.githubusercontent.com/u/45908173?s=200&v=4" alt="preset" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
+      <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="40" height="40"/>
+  </a>
+
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow/img/logos/airflow_64x64_emoji_transparent.png" alt="apache airflow" width="40" height="40"/>
+  </a>
   
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="excel" width="40" height="40"/>
