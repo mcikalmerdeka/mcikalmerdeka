@@ -49,7 +49,7 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
   </a>
 
   <a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
-      <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*oN9jA-Ad3mRlPAYy.png" alt="beautifulsoup" width="40" height="40"/>
+      <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*oN9jA-Ad3mRlPAYy.png" alt="beautifulsoup" width="52" height="40"/>
   </a>
   
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
