@@ -47,6 +47,14 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
   <a href="https://www.statsmodels.org/" target="_blank" rel="noreferrer">
     <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" alt="statsmodels" width="40" height="40"/>
   </a>
+
+  <a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
+      <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*oN9jA-Ad3mRlPAYy.png" alt="beautifulsoup" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+  </a>
   
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/matplotlib-1.svg" alt="matplotlib" width="40" height="40"/>
