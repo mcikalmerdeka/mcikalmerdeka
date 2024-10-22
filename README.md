@@ -12,7 +12,7 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
 
 - 📫 How to reach me : **[Email](mailto:mcikalmerdeka@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/muhammad-cikal-merdeka-50a658266/)** | **[Discord](https://discordapp.com/users/699071814092980264)**
 
-- 📜 My resume/CV **[Updated Resume (October 2024)](https://drive.google.com/file/d/1MC-KfXYkuRe8CUgDegxUORYEIQwSFD9V/view?usp=sharing)** 
+- 📜 My resume/CV : **[Updated Resume (October 2024)](https://drive.google.com/file/d/1MC-KfXYkuRe8CUgDegxUORYEIQwSFD9V/view?usp=sharing)** 
 
 ![](https://komarev.com/ghpvc/?username=mcikalmerdeka)
 
