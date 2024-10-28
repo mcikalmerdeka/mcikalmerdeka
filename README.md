@@ -94,6 +94,10 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
 
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="microsoftsqlserver" width="40" height="40"/>
+  </a>
+
   <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" width="40" height="40"/>
   </a>
