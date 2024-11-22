@@ -133,11 +133,19 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow/img/logos/airflow_64x64_emoji_transparent.png" alt="apache airflow" width="40" height="40"/>
   </a>
-  
+
+  <a href="https://www.astronomer.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.astronomer.io/favicon-32x32.png" alt="astronomer" width="40" height="40"/>
+  </a>
+
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="excel" width="40" height="40"/>
   </a>
-  
+
+  <a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer">
+    <img src="https://www.gstatic.com/images/branding/product/1x/sheets_2020q4_48dp.png" alt="google sheets" width="42" height="40"/>
+  </a>
+
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   </a>
