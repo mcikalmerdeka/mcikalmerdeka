@@ -138,6 +138,10 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
     <img src="https://www.astronomer.io/favicon-32x32.png" alt="astronomer" width="40" height="40"/>
   </a>
 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="excel" width="40" height="40"/>
   </a>
