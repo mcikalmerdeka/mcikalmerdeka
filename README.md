@@ -165,6 +165,10 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/>
   </a>
+
+  <a href="https://www.cursor.so/" target="_blank" rel="noreferrer">
+    <img src="https://www.cursor.so/favicon.ico" alt="cursor" width="40" height="40"/>
+  </a>
   
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
     <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" width="40" height="40"/>
