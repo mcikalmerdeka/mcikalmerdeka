@@ -161,6 +161,10 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub" width="40" height="40"/>
   </a>
+
+  <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
+    <img src="https://icon.icepanel.io/Technology/svg/DBeaver.svg" alt="dbeaver" width="41" height="41"/>
+  </a>
   
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/>
