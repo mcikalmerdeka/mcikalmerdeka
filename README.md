@@ -1,5 +1,12 @@
 # Self Introduction and Profile Guidance
 
+<div align="center">
+  <img height="300" width="525" alt="GIF" src="https://raw.githubusercontent.com/mcikalmerdeka/assets/main/snorlax_animation.gif">
+  <p style="font-size: 6px;"><small>Original creator: <a href="https://x.com/ring_hyacinth/status/1870386506776674376?t=X43CIzUItl7T6uabwSYIpQ&s=19" target="_blank">@ring_hyacinth on X (formerly Twitter)</a></small></p>
+</div>
+
+<br>
+
 Hi I'm Cikal, I have an analytical background and hold a Bachelor of Science (B.Sc) degree in Physics from Institut Teknologi Bandung, Indonesia focusing on Hybrid Solar Cell research.
 
 My graduation in 2023, a pivotal year marked by significant advancements in artificial intelligence with the introduction of GPT-4 and other generative AI models, has fueled my curiosity and excitement to delve into the field of data. Currently, I am actively deepening my knowledge in data science through various sources, including bootcamps and online courses. I am keenly seeking opportunities for internships or full-time positions in the data field to gain early experiences and collaborate with accomplished professionals who are willing to mentor and guide me in furthering my expertise in data science.
