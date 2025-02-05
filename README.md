@@ -149,6 +149,14 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
 
+  <a href="https://python.langchain.com/" target="_blank" rel="noreferrer">
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.18.0/files/dark/langchain-color.png" alt="langchain" width="40" height="40"/>
+  </a>
+  
+  <a href="https://langflow.org/" target="_blank" rel="noreferrer">
+      <img src="https://avatars.githubusercontent.com/u/85702467?s=200&v=4" alt="langflow" width="40" height="40"/>
+  </a>
+
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="excel" width="40" height="40"/>
   </a>
