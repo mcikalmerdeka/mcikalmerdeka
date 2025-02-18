@@ -112,6 +112,10 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
   <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer">
       <img src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1634190631" alt="Snowflake" width="40" height="40"/>
   </a>
+
+  <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.trychroma.com/_next/static/media/chroma.d840f629.png" width="50" height="40"/>
+  </a>
   
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/>
