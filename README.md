@@ -173,6 +173,10 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
     <img src="https://www.gstatic.com/images/branding/product/1x/sheets_2020q4_48dp.png" alt="google sheets" width="42" height="40"/>
   </a>
 
+  <a href="https://www.quadratichq.com/" target="_blank" rel="noreferrer">
+    <img src="https://media2.dev.to/dynamic/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F10472%2F5ec582d6-eb59-4e06-8d88-78c873f6dcfd.png" alt="quadraticAI" width="35" height="35"/>
+  </a>
+
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   </a>
