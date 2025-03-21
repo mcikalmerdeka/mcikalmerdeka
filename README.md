@@ -142,7 +142,7 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
   </a>
 
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow/img/logos/airflow_64x64_emoji_transparent.png" alt="apache airflow" width="40" height="40"/>
+      <img src="https://i0.wp.com/www.bigdatamark.com/wp-content/uploads/airflow.png?w=700&ssl=1" alt="apache airflow" width="40" height="40"/>
   </a>
 
   <a href="https://www.astronomer.io/" target="_blank" rel="noreferrer">
