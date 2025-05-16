@@ -157,6 +157,14 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
 
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+
   <a href="https://python.langchain.com/" target="_blank" rel="noreferrer">
       <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.18.0/files/dark/langchain-color.png" alt="langchain" width="40" height="40"/>
   </a>
