@@ -150,7 +150,7 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
   </a>
 
   <a href="https://dagster.io/" target="_blank" rel="noreferrer">
-    <img src="https://dagster.io/images/brand/logos/dagster-primary-mark.svg" alt="dagster" width="45" height="45"/>
+    <img src="https://cdn.prod.website-files.com/681399f654933b29e12fb8bd/6814963071ec27bc6d2b8dee_dagster-primary-mark.svg.svg" alt="dagster" width="45" height="45"/>
   </a>
 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
