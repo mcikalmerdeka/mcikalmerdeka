@@ -11,7 +11,7 @@ Hi I'm Cikal, I have an analytical background and hold a Bachelor of Science (B.
 
 My graduation in 2023, a pivotal year marked by significant advancements in artificial intelligence with the introduction of GPT-4 and other generative AI models, has fueled my curiosity and excitement to jump into the field of data. Currently, I am actively deepening my knowledge in data science through various sources, including bootcamps and online courses. I am keenly seeking opportunities for contracts or full-time positions in the data field to gain early experiences and collaborate with accomplished professionals who are willing to mentor and guide me in furthering my expertise in data science.
 
-In my freetime outside of working hours I enjoy exploring new data analysis tools and techniques. I also like to do photography while walking around the town, read books like novel and manga, watching anime and movies, listen to music, and sometimes play online games especially fast paced moba games like Dota 2 and Mobile Legends. These things does help me refresh my mind and make me more productive in working.
+In my freetime outside of working hours I enjoy exploring new data analysis tools and techniques while also actively following the trend of AI application development. I also like to do photography while walking around the town, read books like novel and manga, watching anime and movies, listen to music, and sometimes play online games especially fast paced moba games like Dota 2 and Mobile Legends. These things does help me refresh my mind and make me more productive in working.
 
 - 👨‍💻 All of my projects are available in my repositories. You can explore them through my **[Portfolio Website](https://mcikalmerdeka.my.canva.site/)**
   
