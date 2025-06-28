@@ -113,8 +113,12 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
       <img src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1634190631" alt="Snowflake" width="40" height="40"/>
   </a>
 
+  <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
+    <img src="https://svgmix.com/uploads/5a77fe-pinecone-icon.svg" width="42" height="40" />
+  </a>
+
   <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.trychroma.com/_next/static/media/chroma.d840f629.png" width="50" height="40"/>
+      <img src="https://www.trychroma.com/_next/static/media/chroma.d840f629.png" width="48" height="40"/>
   </a>
   
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
