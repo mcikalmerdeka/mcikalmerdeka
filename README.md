@@ -173,6 +173,10 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
       <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.18.0/files/dark/langchain-color.png" alt="langchain" width="40" height="40"/>
   </a>
 
+  <a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer">
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.51.0/files/dark/langgraph-color.png" alt="langgraph" width="40" height="40"/>
+  </a>
+
   <a href="https://www.langchain.com/langsmith" target="_blank" rel="noreferrer">
     <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.49.0/files/dark/langsmith-color.png" alt="langsmith" width="40" height="40"/>
   </a>
