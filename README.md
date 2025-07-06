@@ -29,13 +29,16 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
     <td>
       <!-- Larger profile views -->
       <a href="https://github.com/mcikalmerdeka">
-        <img src="https://komarev.com/ghpvc/?username=mcikalmerdeka&style=flat&color=1ED760" height="28"/>
+        <img src="https://komarev.com/ghpvc/?username=mcikalmerdeka&style=flat&color=1ED760" height="45"/>
       </a>
     </td>
     <td align="right">
-      <!-- Spotify badge -->
+      <!-- Spotify badges -->
       <a href="https://open.spotify.com/playlist/1dvoCOb3vso33rTd4FWqRW?si=aO3T2sowSkmyrqS2pAf-zg">
         <img src="https://img.shields.io/badge/Spotify-Song%20Playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
+      </a>
+      <a href="https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6?si=0AkswLEfQV6jDpWCKPBRcA">
+        <img src="https://img.shields.io/badge/-Favorite%20Artist-1ED760?style=for-the-badge&logoColor=white"/>
       </a>
     </td>
   </tr>
