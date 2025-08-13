@@ -41,10 +41,10 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
         <img src="https://img.shields.io/badge/JP-1ED760?style=for-the-badge&logoColor=white"/>
       </a>
       <a href="https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6?si=0AkswLEfQV6jDpWCKPBRcA">
-        <img src="https://img.shields.io/badge/-Fav%20Artist%201:%20Aimyon-1ED760?style=for-the-badge&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Fav Artist-Aimyon-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
       </a>
       <a href="https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik?si=YR_0a8SsQ3eE1GG3OOk-rg">
-        <img src="https://img.shields.io/badge/-Fav%20Artist%202:%20Yorushika-1ED760?style=for-the-badge&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Yorushika-1ED760?style=for-the-badge&logoColor=white"/>
       </a>
     </td>
   </tr>
