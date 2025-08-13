@@ -35,10 +35,10 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
     <td align="right">
       <!-- Spotify badges -->
       <a href="https://open.spotify.com/playlist/6kSi8yuu24PGF3UhcrZjn5?si=e31ef63f09234156">
-        <img src="https://img.shields.io/badge/Spotify-Playlist%20EN-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spotify Playlist-EN-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
       </a>
       <a href="https://open.spotify.com/playlist/7DupLwtWnoVS20uUVrpo62?si=1d76646dec8643df">
-        <img src="https://img.shields.io/badge/-Playlist%20JP-1ED760?style=for-the-badge&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JP-1ED760?style=for-the-badge&logoColor=white"/>
       </a>
       <a href="https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6?si=0AkswLEfQV6jDpWCKPBRcA">
         <img src="https://img.shields.io/badge/-Fav%20Artist%201:%20Aimyon-1ED760?style=for-the-badge&logoColor=white"/>
