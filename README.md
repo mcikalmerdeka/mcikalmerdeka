@@ -21,7 +21,7 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
 
 - 📫 How to reach me : **[Email](mailto:mcikalmerdeka@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/muhammad-cikal-merdeka-50a658266/)** | **[Discord](https://discordapp.com/users/699071814092980264)**
 
-- 📜 My resume/CV : **[Updated Resume (April 2025)](https://drive.google.com/file/d/1KTVOW2r29bbu2G7JJvBA2O815jemC43B/view?usp=sharing)**
+- 📜 My resume/CV : **[Updated Resume (October 2025)](https://drive.google.com/drive/folders/1mw9BBgjSsRgmJh3ofnmekU2o7Uap5hR6?usp=sharing)**
 
 <!-- Profile Additional Info -->
 <table>
