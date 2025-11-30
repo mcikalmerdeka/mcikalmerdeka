@@ -15,7 +15,7 @@ My graduation in 2023, a pivotal year marked by significant advancements in arti
 
 In my freetime outside of working hours I enjoy exploring new data analysis tools and techniques while also actively following the trend of AI application development. I also like to do photography while walking around the town, read books like novel and manga, watching anime and movies, listen to music, and sometimes play online games especially fast paced moba games like Dota 2 and Mobile Legends. These things does help me refresh my mind and make me more productive in working.
 
-- 👨‍💻 All of my projects are available in my repositories. You can explore them through my **[Portfolio Website](https://cikal-personal-website.vercel.app/)**
+- 👨‍💻 All of my projects are available in my repositories. You can explore them through my **[Portfolio Website](https://mcikalmerdeka.vercel.app/)**
   
 - 🌱 I’m actively exploring **[Natural Language Processing (NLP)](https://github.com/mcikalmerdeka/NLP-Learning)**
 
