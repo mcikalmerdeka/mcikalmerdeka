@@ -52,7 +52,7 @@ In my freetime outside of working hours I enjoy exploring new data analysis tool
 
 <!-- Skillsets -->
 ## Languages | Libraries | Frameworks | Tools
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,r,matlab,mysql,postgresql,sqlserver,sqlalchemy,sqlite,numpy,pandas,scipy,tensorflow,pytorch,selenium,matplotlib,seaborn,sklearn,mlflow,huggingface,streamlit,gradio,flask,fastapi,n8n,agno,langchain,chatgpt,claude,gemini,ollama,azure,bigquery,snowflake,pinecone,supabase,tableau,pbi,metabase,looker,dbtlabs,airflow,docker,postman,pytest,excel,git,github,dbeaver,vscode,cursor,jupyter,googlecolab&theme=dark&titles=true&perline=15)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,r,matlab,mysql,postgresql,sqlserver,sqlalchemy,sqlite,numpy,pandas,scipy,tensorflow,pytorch,selenium,matplotlib,seaborn,sklearn,mlflow,huggingface,streamlit,gradio,flask,fastapi,n8n,agno,langchain,chatgpt,claude,gemini,ollama,azure,gcp,bigquery,snowflake,pinecone,supabase,tableau,pbi,metabase,looker,dbtlabs,airflow,docker,postman,pytest,excel,git,github,dbeaver,vscode,cursor,jupyter,googlecolab&theme=dark&titles=true&perline=15)
 
 <!-- Github and Other Stats -->
 ## 📊 Stats
