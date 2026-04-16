@@ -57,7 +57,7 @@ In my freetime outside of working hours I enjoy reading and writing about the tr
 
 <!-- Skillsets -->
 ## Languages | Libraries | Frameworks | Tools
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,r,matlab,mysql,postgresql,sqlserver,sqlalchemy,sqlite,numpy,pandas,polars,scipy,tensorflow,pytorch,selenium,matplotlib,seaborn,sklearn,mlflow,prometheus,grafana,huggingface,streamlit,gradio,flask,fastapi,pydantic,n8n,agno,langchain,chatgpt,claude,gemini,ollama,azure,gcp,bigquery,snowflake,duckdb,pinecone,qdrant,supabase,neon,tableau,pbi,metabase,looker,dbtlabs,airflow,docker,postman,pytest,excel,git,github,dbeaver,vscode,cursor,jupyter,googlecolab&theme=dark&titles=true&perline=15)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,r,matlab,mysql,postgresql,sqlserver,sqlalchemy,sqlite,numpy,pandas,polars,scipy,tensorflow,pytorch,selenium,matplotlib,seaborn,sklearn,mlflow,prometheus,grafana,huggingface,streamlit,gradio,flask,netlify,nextjs,fastapi,pydantic,n8n,agno,langchain,chatgpt,claude,gemini,ollama,azure,gcp,bigquery,snowflake,duckdb,pinecone,qdrant,supabase,neon,tableau,pbi,metabase,looker,dbtlabs,airflow,docker,postman,pytest,excel,git,github,dbeaver,vscode,cursor,jupyter,googlecolab&theme=dark&titles=true&perline=15)
 
 <!-- Github and Other Stats -->
 ## 📊 Stats
